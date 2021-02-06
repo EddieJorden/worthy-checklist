@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/EddieJorden/worthy-checklist/static/js/main.afe41c45.chunk.js",
+    "main.js.map": "/EddieJorden/worthy-checklist/static/js/main.afe41c45.chunk.js.map",
+    "runtime-main.js": "/EddieJorden/worthy-checklist/static/js/runtime-main.da49f2ed.js",
+    "runtime-main.js.map": "/EddieJorden/worthy-checklist/static/js/runtime-main.da49f2ed.js.map",
+    "static/js/2.db042256.chunk.js": "/EddieJorden/worthy-checklist/static/js/2.db042256.chunk.js",
+    "static/js/2.db042256.chunk.js.map": "/EddieJorden/worthy-checklist/static/js/2.db042256.chunk.js.map",
+    "index.html": "/EddieJorden/worthy-checklist/index.html",
+    "static/js/2.db042256.chunk.js.LICENSE.txt": "/EddieJorden/worthy-checklist/static/js/2.db042256.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da49f2ed.js",
+    "static/js/2.db042256.chunk.js",
+    "static/js/main.afe41c45.chunk.js"
+  ]
+}
