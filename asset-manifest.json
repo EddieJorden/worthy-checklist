@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/EddieJorden/worthy-checklist/static/js/main.2f0657e4.chunk.js",
-    "main.js.map": "/EddieJorden/worthy-checklist/static/js/main.2f0657e4.chunk.js.map",
-    "runtime-main.js": "/EddieJorden/worthy-checklist/static/js/runtime-main.da49f2ed.js",
-    "runtime-main.js.map": "/EddieJorden/worthy-checklist/static/js/runtime-main.da49f2ed.js.map",
-    "static/js/2.db042256.chunk.js": "/EddieJorden/worthy-checklist/static/js/2.db042256.chunk.js",
-    "static/js/2.db042256.chunk.js.map": "/EddieJorden/worthy-checklist/static/js/2.db042256.chunk.js.map",
-    "index.html": "/EddieJorden/worthy-checklist/index.html",
-    "static/js/2.db042256.chunk.js.LICENSE.txt": "/EddieJorden/worthy-checklist/static/js/2.db042256.chunk.js.LICENSE.txt"
+    "main.js": "/worthy-checklist/static/js/main.65d43fa9.chunk.js",
+    "main.js.map": "/worthy-checklist/static/js/main.65d43fa9.chunk.js.map",
+    "runtime-main.js": "/worthy-checklist/static/js/runtime-main.c81b84b5.js",
+    "runtime-main.js.map": "/worthy-checklist/static/js/runtime-main.c81b84b5.js.map",
+    "static/js/2.db042256.chunk.js": "/worthy-checklist/static/js/2.db042256.chunk.js",
+    "static/js/2.db042256.chunk.js.map": "/worthy-checklist/static/js/2.db042256.chunk.js.map",
+    "index.html": "/worthy-checklist/index.html",
+    "static/js/2.db042256.chunk.js.LICENSE.txt": "/worthy-checklist/static/js/2.db042256.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.da49f2ed.js",
+    "static/js/runtime-main.c81b84b5.js",
     "static/js/2.db042256.chunk.js",
-    "static/js/main.2f0657e4.chunk.js"
+    "static/js/main.65d43fa9.chunk.js"
   ]
 }
