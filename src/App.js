@@ -1,4 +1,4 @@
-import { welcomePage } from './components/welcomePage.js';
+import { WelcomePage } from './components/welcomePage.js';
 
 function App() {
 	return (
@@ -7,14 +7,16 @@ function App() {
 				backgroundImage: `url(${
 					process.env.PUBLIC_URL + '/ioslakewallpaper.jpg'
 				})`,
-
 				backgroundPosition: 'center',
 				backgroundSize: 'cover',
 				backgroundRepeat: 'no-repeat',
+				position: 'absolute',
+				height: '100%',
+				width: '100%'
 			}}
 		>
 			<div>
-				<div>{welcomePage}</div>
+				<WelcomePage />
 			</div>
 		</div>
 	);

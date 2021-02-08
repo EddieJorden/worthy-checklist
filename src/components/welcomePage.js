@@ -1,7 +1,5 @@
 import React from 'react';
 
-export const welcomePage = (
-	<div>
-		<div>welcomePage</div>
-	</div>
+export const WelcomePage = () => (
+	<div>Welcome</div>
 );
