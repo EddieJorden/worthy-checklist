@@ -1,11 +1,20 @@
-import { welcomePage } from './components/welcome.js';
+import { welcomePage } from './components/welcomePage.js';
 
 function App() {
 	return (
-		<div className="App">
+		<div
+			style={{
+				backgroundImage: `url(${
+					process.env.PUBLIC_URL + '/ioslakewallpaper.jpg'
+				})`,
+
+				backgroundPosition: 'center',
+				backgroundSize: 'cover',
+				backgroundRepeat: 'no-repeat',
+			}}
+		>
 			<div>
-				<h1>Hello world</h1>
-				{welcomePage}
+				<div>{welcomePage}</div>
 			</div>
 		</div>
 	);
